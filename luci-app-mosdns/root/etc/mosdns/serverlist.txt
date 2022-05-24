@@ -13105,6 +13105,7 @@ click.aabacosmallbusiness.com
 click.aaptiv.com
 click.admaster.com.cn
 click.airmalta-mail.com
+click.ali213.net
 click.alibaba.com
 click.aliexpress.com
 click.alternate.de
@@ -21072,6 +21073,7 @@ faster-trk.com
 fastestvolcano.com
 fastfinch.co
 fastgull.io
+fastimage.uve.weibo.com
 fastly-analytics.com
 fastly-insights.com
 fastonlineusers.com
@@ -23235,6 +23237,7 @@ gixmo.dk
 gj.mmstat.com
 gjapplog.uc.cn
 gjapplog.ucweb.com
+gjctwh.cn
 gjh111.cn
 gjohvhf.cn
 gjqhufkamcoc.com
@@ -35522,7 +35525,6 @@ mo.oneshouyou.cn
 mo.osvp2.cn
 mo.qb138.cn
 mo.qitouch.cn
-mo.res.wpscdn.cn
 mo.rltk.com.cn
 mo.shekuang.top
 mo.shezhuang.top
@@ -42240,7 +42242,6 @@ qhmrasvwzbwjpz.com
 qhnwj.com
 qhonzpl.cn
 qhqofqeivtno.com
-qhres2.com
 qhsyg.top
 qhuik.com
 qhupdate.com
@@ -44320,7 +44321,6 @@ rum.nccgroup-webperf.com
 rum.perfops.net
 rum.uptime.com
 rumanalytics.com
-rumble.com
 rumerrand.com
 rummyaffiliates.com
 rumpelstiltskinhead.com
@@ -51409,6 +51409,7 @@ t1.612.com
 t1.a.market.xiaomi.com
 t1.benefits.tops.co.th
 t1.jzkapp.com
+t1.market.xiaomi.com
 t1.stadiumgoods.com
 t1.wshufa.com
 t13.9to5google.com

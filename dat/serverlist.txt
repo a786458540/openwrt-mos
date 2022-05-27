@@ -3345,7 +3345,6 @@ aboriginalhubby.com
 abortmaydesirable.com
 abostimp.com
 about.qichetiemo.info
-aboutads.gr
 aboutads.quantcast.com
 abovede6.com
 aboveredirect.top
@@ -3365,7 +3364,6 @@ absentstream.com
 absenttwilly.com
 absinfo.eagle.org
 absolstats.co.za
-absoluteclickscom.com
 absolutionbravery.com
 absorbingband.com
 absorbingcorn.com
@@ -5177,7 +5175,6 @@ ads.sexgratuit.tv
 ads.shizmoo.com
 ads.shopstyle.com
 ads.sift.co.uk
-ads.silverdisc.co.uk
 ads.simplyhired.com
 ads.sina.com
 ads.sjon.info
@@ -13726,6 +13723,7 @@ cnt.my
 cnt.nov.ru
 cnt.nuvid.com
 cnt.rate.ru
+cnt.spbland.ru
 cnt.st
 cnt.statistic.date
 cnt.trvdp.com
@@ -53942,7 +53940,6 @@ tracker.baidu.com
 tracker.bannerflow.com
 tracker.beezup.com
 tracker.bestshopping.com
-tracker.bongngo.bar
 tracker.bt.uol.com.br
 tracker.cauly.co.kr
 tracker.cdnbye.com

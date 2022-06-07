@@ -13223,6 +13223,7 @@ click.hd.sohu.com
 click.hd.sohu.com.cn
 click.hm.baidu.com
 click.hookupinyourcity.com
+click.hooligapps.com
 click.hunantv.com
 click.instacartemail.com
 click.jebe.renren.com

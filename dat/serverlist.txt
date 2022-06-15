@@ -51627,6 +51627,7 @@ t.birchlane.com
 t.blablacar.com
 t.brand-server.com
 t.c4tw.net
+t.carta.com
 t.castle.io
 t.cfjump.com
 t.channeladvisor.com

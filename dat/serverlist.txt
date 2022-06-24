@@ -3892,7 +3892,6 @@ ad.nttnavi.co.jp
 ad.nwt.cz
 ad.obuy.tw
 ad.outsidehub.com
-ad.pandora.tv
 ad.pchome.com.tw
 ad.period-calendar.com
 ad.pixnet.in
@@ -4908,7 +4907,6 @@ ads.aceweb.net
 ads.acpc.cat
 ads.acrosspf.com
 ads.activestate.com
-ads.ad-center.com
 ads.ad4game.com
 ads.adadapted.com
 ads.adaptv.advertising.com
@@ -5239,7 +5237,6 @@ ads.tiktok.com
 ads.tmcs.net
 ads.todoti.com.br
 ads.toplayaffiliates.com
-ads.totallyfreestuff.com
 ads.townhall.com
 ads.traffichunt.com
 ads.trafficjunky.net
@@ -12074,6 +12071,7 @@ cashtrafic.com
 cashtrafic.info
 casino-zilla.com
 casinohacksforyou.com
+casinopays.com
 casinorewards.com
 casinotraffic.com
 casleygkqvkx.com

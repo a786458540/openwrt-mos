@@ -7685,8 +7685,6 @@ api.decentralize.today
 api.dewmobile.net
 api.df.mob.com
 api.dianru.com
-api.dianshige.com
-api.dianshihome.com
 api.domob.cn
 api.doumob.com
 api.dreamfull.cn
@@ -12301,7 +12299,6 @@ cdn.cloudcoins.co
 cdn.cmop.mgtv.com
 cdn.cooguo.com
 cdn.creative.medialytics.com
-cdn.dianshihome.com
 cdn.districtm.io
 cdn.dragonstatic.com
 cdn.dsp.com
@@ -15377,7 +15374,6 @@ ctr.nmg.de
 ctrack.trafficjunky.net
 ctrhfd.top
 ctrhub.com
-ctrip.com
 ctripcorp.com
 ctrlaltdel99.com
 ctrmanager.com
@@ -42157,9 +42153,7 @@ pushame.com
 pushance.com
 pushanert.com
 pushango.com
-pushapi.cdnimg.org
 pushapi.lenovomm.com
-pushapi.tvfuwu.com
 pusharest.com
 pushassist.com
 pushauction.com
@@ -51267,7 +51261,6 @@ suvset.sohu.com
 suwoj.com
 suxhap.com
 suzanne.pro
-sv.aq.qq.com
 sv2.biz
 svacdnjutk.com
 svarcom.actonservice.com

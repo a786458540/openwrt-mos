@@ -5314,7 +5314,6 @@ ads2.mediaarmor.com
 ads2.msads.net
 ads2.msn.com
 ads2.net-communities.co.uk
-ads2.oneplace.com
 ads2.opensubtitles.org
 ads2.rne.com
 ads2.techads.info
@@ -13618,7 +13617,6 @@ cloudcoins.co
 clouddream.ltd
 clouderrorreporting.googleapis.com
 cloudflane.com
-cloudflare-dacdn.visualwebsiteoptimizer.com
 cloudflare.solutions
 cloudflareinsights.com
 cloudfrale.com
@@ -27659,7 +27657,6 @@ inquisitiveinvention.com
 inrd.ru
 inrdeals.com
 inrhyhorntor.com
-inringtone.com
 ins.leavitt.com
 insanityoh.com
 inscriptionothernarcotic.com
@@ -30488,6 +30485,7 @@ l4elb.cn
 l4oecosq.com
 l520.ltd
 l570mb.cn
+l6b587txj1.com
 l90.xyz
 l936.expressnews.com
 l99l.org

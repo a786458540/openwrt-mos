@@ -6986,6 +6986,7 @@ amp-error-reporting.appspot.com
 amp.rd.linksynergy.com
 amp.services
 ampcr.io
+ampleclick.com
 amplify.outbrain.com
 amplify.strategic-i.com
 amplifypixel.outbrain.com

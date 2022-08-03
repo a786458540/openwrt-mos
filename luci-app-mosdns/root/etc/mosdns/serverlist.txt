@@ -7737,6 +7737,7 @@ api.installer.xiaomi.com
 api.intensifier.de
 api.inwemo.com
 api.itaoxiaoshuo.com
+api.iterable.com
 api.jsecoin.com
 api.jsfc8.cn
 api.kameleoon.com
@@ -28172,7 +28173,6 @@ item.ttkvod.com
 itemolgaer.com
 itempana.site
 items.bingdiantao.com
-iterable.com
 iterable.convoy.com
 itgiblean.com
 ithaibap.com
@@ -29126,6 +29126,7 @@ js.hslyqs.com
 js.icast.cn
 js.idgdmg.com.cn
 js.idgdmgroup.com.cn
+js.iterable.com
 js.jaat3ax.site
 js.jianbaimei.com
 js.jianbihuadq.com

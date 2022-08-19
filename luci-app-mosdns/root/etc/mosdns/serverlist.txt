@@ -650,6 +650,7 @@
 23205523023daea6.com
 2329.ink
 233wo.com
+2345.cc
 2345.cn
 2345.com
 23456dj.com
@@ -3800,6 +3801,7 @@ ad.bloggerads.net
 ad.bnmla.com
 ad.bobi.tw
 ad.bondage.com
+ad.browser.qq.com
 ad.byfuh.com
 ad.cacafly.com
 ad.caiyunapp.com
@@ -4749,7 +4751,6 @@ adnxs.net
 adnxs1.com
 adnyg.com
 adnz.co
-adobe-campaign.com
 adobe-dns-2.adobe.com
 adobe-dns-3.adobe.com
 adobe-dns.adobe.com
@@ -8281,7 +8282,6 @@ as.inbox.com
 as.jdkic.com
 as.kejet.com
 as.kejet.net
-as.mgtv.com
 as.mirapodo.de
 as.mytoys.de
 as.nidongme.com
@@ -23769,7 +23769,6 @@ glyphas.com
 glyptaptone.pro
 glzsji.nordman.ru
 glzyw.com
-gm.mmstat.com
 gm.uc003.com
 gm99.com
 gma.alicdn.com
@@ -46728,7 +46727,6 @@ serv-ac.com
 serv0.com
 serv1swork.com
 servads.net
-servadsdisrupt.com
 servboost.tech
 servcliente.marathon-sports-ec.com
 serve-sys.com
@@ -61738,6 +61736,7 @@ yepteaswont.com
 yeribi.com
 yes-messenger.com
 yes1.feng.com
+yes115.com
 yesads.com
 yesadsrv.com
 yesadvertising.com

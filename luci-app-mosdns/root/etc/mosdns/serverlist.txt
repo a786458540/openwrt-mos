@@ -6086,7 +6086,6 @@ ads.4tube.com
 ads.5ci.lt
 ads.5min.at
 ads.73dpi.com
-ads.95516.com
 ads.979799777.com
 ads.a-snag-smartmoney.fyi
 ads.aavv.com
@@ -18614,7 +18613,6 @@ daz3rw5a5k4h.com
 dazhantai.com
 dazhonghua.cn
 dazibenwm.com
-db-ip.com
 db.cjtcc.cn
 db.xiaoshuofuwuqi.com
 db1.fuz.cc

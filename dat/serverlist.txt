@@ -15232,7 +15232,6 @@ click360v2-ingest.azurewebsites.net
 click3forhz.adsmogo.com
 click4assistance.co.uk
 click4free.info
-clickability.com
 clickable.com
 clickable.net
 clickad.pl
@@ -55563,7 +55562,6 @@ t.menepe.com
 t.mofun.ltd
 t.nativendo.de
 t.nevadawolfpack.com
-t.news.browns-restaurants.co.uk
 t.newsletter.thetimes.co.uk
 t.njzrxx.xyz
 t.notif-colissimo-laposte.info
@@ -56564,6 +56562,7 @@ thebrighttag.com
 thebugs.ws
 thebunsenburner.com
 thechosen1.cn
+theclickads.com
 thecounter.com
 thecred.info
 theechosystem.com
